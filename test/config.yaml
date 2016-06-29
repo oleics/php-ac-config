@@ -1,0 +1,13 @@
+
+env:
+  mode: development
+  # mode: production
+
+emails:
+  production:
+    - oliver.leics@gmail.com
+  development:
+    - oliver.leics@gmail.com
+
+bar:
+  baz: 360
